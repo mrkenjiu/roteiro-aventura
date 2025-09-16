@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram id="NOXWgNdLpGtzCkD4o4gN" name="Page-1">
-    <mxGraphModel dx="112" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="20" target="Osc-jSaQV2gRz7m0Fzf3-85">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="20" target="Osc-jSaQV2gRz7m0Fzf3-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="20" value="Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista.&#xa;" style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -23,158 +23,158 @@
         <mxCell id="45" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitDx=0;exitDy=0;" parent="1" source="10" target="20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-55" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 33px; color: rgb(51, 51, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;Roteiro Aventura&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;imageAspect=0;" vertex="1" parent="1">
-          <mxGeometry x="1397.5" y="-90" width="290" height="50" as="geometry" />
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-55" value="&lt;h1&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 33px; color: rgb(51, 51, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;Roteiro Aventura&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;imageAspect=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="40" width="330" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-78" value="" style="group;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-78" value="" style="group;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1641.5" y="180" width="203" height="60" as="geometry" />
         </mxCell>
         <mxCell id="11" value="Pernambuco" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#ffffff;fillColor=#0050ef;rounded=1;pointerEvents=0;gradientColor=none;" parent="Osc-jSaQV2gRz7m0Fzf3-78" vertex="1">
           <mxGeometry y="30" width="203" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-76" value="Passo: 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-78">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-76" value="Passo: 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="Osc-jSaQV2gRz7m0Fzf3-78" vertex="1">
           <mxGeometry x="23" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidade, e eu decidi segui-las!" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;fillStyle=auto;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1399.75" y="40" width="285.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-61" value="Passo: 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-61" value="Passo: 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1507.5" y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-81" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-81" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1200" y="180" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Rio de Janeiro" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-81" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-75" value="Passo: 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-81">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-75" value="Passo: 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-81" vertex="1">
           <mxGeometry x="50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-82" target="Osc-jSaQV2gRz7m0Fzf3-96">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-82" target="Osc-jSaQV2gRz7m0Fzf3-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-82" target="Osc-jSaQV2gRz7m0Fzf3-99">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-82" target="Osc-jSaQV2gRz7m0Fzf3-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-82" value="Em Pernambuco, você visita a histórica cidade de Olinda. Na certa, uma das pistas indica que, para localizar a entrada para a cidade perdida, você deve procurar a próxima pista em um dos pontos turísticos da cidade. Por qual você vai começar?" style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-82" value="Em Pernambuco, você visita a histórica cidade de Olinda. Na certa, uma das pistas indica que, para localizar a entrada para a cidade perdida, você deve procurar a próxima pista em um dos pontos turísticos da cidade. Por qual você vai começar?" style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1604.5" y="270" width="277" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="11" target="Osc-jSaQV2gRz7m0Fzf3-82">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11" target="Osc-jSaQV2gRz7m0Fzf3-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-84" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-84" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1060" y="390" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-85" value="Procurar a pista do topo do pico" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-84">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-85" value="Procurar a pista do topo do pico" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-84" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-86" value="Passo: 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-84">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-86" value="Passo: 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-84" vertex="1">
           <mxGeometry x="50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-88" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-88" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1320" y="390" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-89" value="Desistir e voltar para casa" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-88">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-89" value="Desistir e voltar para casa" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-88" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-90" value="Passo: 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-88">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-90" value="Passo: 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-88" vertex="1">
           <mxGeometry x="130" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="20">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-93" target="Osc-jSaQV2gRz7m0Fzf3-108">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-93" target="Osc-jSaQV2gRz7m0Fzf3-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-93" value="No topo do Pico da Tijuca, você encontra uma antiga inscrição apontando que a próxima pista está localizada no Amazonas." style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-93" value="No topo do Pico da Tijuca, você encontra uma antiga inscrição apontando que a próxima pista está localizada no Amazonas." style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1085" y="500" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-85" target="Osc-jSaQV2gRz7m0Fzf3-93">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-85" target="Osc-jSaQV2gRz7m0Fzf3-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-95" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-95" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1574.5" y="390" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-96" value="Investigar igrejas antigas" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-95">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-96" value="Investigar igrejas antigas" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-95" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-97" value="Passo: 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-95">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-97" value="Passo: 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-95" vertex="1">
           <mxGeometry x="50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-98" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-98" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1830" y="390" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-99" value="Explorar praias próximas" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-98">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-99" value="Explorar praias próximas" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-98" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-100" value="Passo: 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-98">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-100" value="Passo: 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-98" vertex="1">
           <mxGeometry x="110" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-103" target="Osc-jSaQV2gRz7m0Fzf3-108">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-103" target="Osc-jSaQV2gRz7m0Fzf3-108" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1434" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-103" value="Nas igrejas de Olinda, você descobre um mapa antigo escondido atrás de um altar. Ele aponta que a próxima pista está no Amazonas" style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-103" value="Nas igrejas de Olinda, você descobre um mapa antigo escondido atrás de um altar. Ele aponta que a próxima pista está no Amazonas" style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1604.5" y="490" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-104" value="Explorando as praias, você encontra uma caverna escondida, mas ela leva a um beco sem saída." style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-104" value="Explorando as praias, você encontra uma caverna escondida, mas ela leva a um beco sem saída." style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1855" y="490" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-96" target="Osc-jSaQV2gRz7m0Fzf3-103">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-96" target="Osc-jSaQV2gRz7m0Fzf3-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-99" target="Osc-jSaQV2gRz7m0Fzf3-104">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-99" target="Osc-jSaQV2gRz7m0Fzf3-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-107" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-107" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1427.5" y="630" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-108" value="Amazonas" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-107">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-108" value="Amazonas" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-107" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-109" value="Passo: 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-107">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-109" value="Passo: 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-107" vertex="1">
           <mxGeometry x="50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-110" target="Osc-jSaQV2gRz7m0Fzf3-115">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-110" target="Osc-jSaQV2gRz7m0Fzf3-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-110" target="Osc-jSaQV2gRz7m0Fzf3-118">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-110" target="Osc-jSaQV2gRz7m0Fzf3-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-110" value="No Amazonas, a busca pela cidade perdida se intensifica. Você se depara com um rio bifurcado." style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-110" value="No Amazonas, a busca pela cidade perdida se intensifica. Você se depara com um rio bifurcado." style="whiteSpace=wrap;strokeWidth=2;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1452.5" y="720" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-108" target="Osc-jSaQV2gRz7m0Fzf3-110">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Osc-jSaQV2gRz7m0Fzf3-108" target="Osc-jSaQV2gRz7m0Fzf3-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-114" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-114" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1275" y="830" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-115" value="Seguir pelo rio à esquerda" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-114">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-115" value="Seguir pelo rio à esquerda" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-114" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-116" value="Passo: 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-114">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-116" value="Passo: 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-114" vertex="1">
           <mxGeometry x="45" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-117" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-117" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1580" y="830" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-118" value="Seguir pelo rio à direira" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-117">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-118" value="Seguir pelo rio à direira" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-117" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-119" value="Passo: 11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-117">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-119" value="Passo: 11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-117" vertex="1">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-125" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-125" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1730" y="720" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-126" value="gfujdtu" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-125">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-126" value="gfujdtu" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="Osc-jSaQV2gRz7m0Fzf3-125" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-127" value="Passo: exmplo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="Osc-jSaQV2gRz7m0Fzf3-125">
+        <mxCell id="Osc-jSaQV2gRz7m0Fzf3-127" value="Passo: exmplo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" parent="Osc-jSaQV2gRz7m0Fzf3-125" vertex="1">
           <mxGeometry x="35" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
