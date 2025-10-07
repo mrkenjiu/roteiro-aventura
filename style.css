@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Centraliza o conteúdo dentro do main */
+    text-align: center; 
+}
+
+h1 {
+    color: #0066cc;
+    margin-bottom: 20px;
+}
+
+.introducao p {
+    /* Garante que o texto dentro do parágrafo fique centralizado */
+    text-align: center;
+    font-size: 1.1em;
+    /* Adiciona uma margem inferior para separar do botão */
+    margin-bottom: 30px; 
+}
+
+/* Estilo para a seção de botões */
+.botoes {
+    display: flex; /* Permite que os botões fiquem lado a lado */
+    justify-content: center; /* Centraliza o grupo de botões */
+    gap: 20px; /* Espaço entre os botões */
+    margin-top: 20px;
+}
+
+/* Estilo básico para os botões */
+.botoes button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #0066cc;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.botoes button:hover {
+    background-color: #004d99;
+}
